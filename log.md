@@ -4,10 +4,10 @@
 
 **Today's Progress**: I've gone through week 1 of the Introduction to Data Science course on Coursera
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
 
 ### Day 2: November 6, Tuesday
 
 **Today's Progress**: I've gone through week 1 of the Introduction to Data Science course on Coursera
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
