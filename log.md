@@ -16,4 +16,4 @@
 
 **Today's Progress**: Lambda, list comprehensions, 
 
-**Thoughts** : Not very easy to convert a normal function into a one line list comprehension but I learned how to create a list containing all possible combinations (from 2 lists), which could be used for creating unique ID numbers, for example.  
+**Thoughts** : Not used to the list comprehension syntax when comparing to a normal function and turning into a one line list but I learned how to create a list containing all possible combinations (from 2 lists), which could be used for creating unique ID numbers, for example.  
